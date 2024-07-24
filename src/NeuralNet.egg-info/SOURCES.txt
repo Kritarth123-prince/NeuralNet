@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/NeuralNet.egg-info/PKG-INFO
+src/NeuralNet.egg-info/SOURCES.txt
+src/NeuralNet.egg-info/dependency_links.txt
+src/NeuralNet.egg-info/entry_points.txt
+src/NeuralNet.egg-info/requires.txt
+src/NeuralNet.egg-info/top_level.txt
+tests/test_architectures.py
+tests/test_evaluation.py
+tests/test_training.py
+tests/test_transfer_learning.py
+tests/test_visualization.py

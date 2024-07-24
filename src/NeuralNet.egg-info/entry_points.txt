@@ -1,0 +1,2 @@
+[console_scripts]
+neuralnet = src.main:main
